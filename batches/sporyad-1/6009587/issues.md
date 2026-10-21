@@ -1,0 +1,2 @@
+- Дубль назви з 6009593 («Ремінь для рушниці "Beretta" Neo Coffee»); за джерелами це різні товари: тут Neo Shotgun Sling (85–110 см, 114 г), у 6009593 — Neo Backpack. ГЗ розведено: «Beretta Neo Shotgun Sling Coffee».
+- Лише 1 фото; характеристик у пакеті немає — technical зібрано з опису stvol.ua.
