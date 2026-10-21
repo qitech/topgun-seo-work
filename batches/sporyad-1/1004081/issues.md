@@ -1,0 +1,2 @@
+- Мало фото: лише 1.
+- Розбіжність виробника: каталог/stvol.ua — Poe Lang, xtarget.com.ua — JK ARCHERY; у назві — Ek Archery.
