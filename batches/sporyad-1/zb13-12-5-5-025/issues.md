@@ -1,0 +1,3 @@
+- Характеристики каталогу описують усю лінійку Hercules 7 Two-Toned (оправи Black/Brown і Black/Blue; лінзи Driving Mirror, Flash Mirror, Clear) — у technical звужено до нашого варіанту (Чорний/Коричневий, Driving Mirror) і додано ANSI Z87.1-2010.
+- Джерело не називає модель балістичною (лише ANSI Z87.1 для промисловості) — синонім «балістичні окуляри Global Vision Hercules» не використано; бренд у каталозі «global-vision-hercules» (Hercules — суббренд Global Vision).
+- Лише 1 фото.
