@@ -1,0 +1,130 @@
+{
+ "core": {
+  "lang": "uk",
+  "gz": "Strike Industries Link Angled QD",
+  "gz_short": "Link Angled QD",
+  "gz_words": [
+   "Angled"
+  ],
+  "variant_words": [],
+  "synonyms": [
+   {
+    "text": "база антабки",
+    "main": true
+   },
+   {
+    "text": "кутова QD антабка",
+    "main": false
+   }
+  ],
+  "keys": [
+   "купити",
+   "ціна",
+   "характеристики",
+   "відгуки"
+  ],
+  "lsi": [
+   "M-LOK",
+   "KeyMod",
+   "QD",
+   "30 градусів",
+   "алюміній",
+   "антиобертання",
+   "низькопрофільна",
+   "збройовий ремінь"
+  ],
+  "part_synonyms": [
+   "антабка Strike Industries",
+   "база антабки Strike Industries"
+  ]
+ },
+ "gz": {
+  "gz": "Strike Industries Link Angled QD",
+  "h1": "Strike Industries Link Angled QD — кутова база QD антабки",
+  "h1_ru": "Strike Industries Link Angled QD — угловая база QD антабки",
+  "title": "Strike Industries Link Angled QD — кутова база QD антабки M-LOK/KeyMod, червона: купити, ціна, характеристики",
+  "title_ru": "Strike Industries Link Angled QD — угловая база QD антабки M-LOK/KeyMod, красная: купить, цена, характеристики",
+  "description": "Strike Industries Link Angled QD — алюмінієва база QD антабки під кутом 30° для M-LOK і KeyMod. Огляд, особливості, застосування, ціна і комплект. Купити в TOPGUN.",
+  "description_ru": "Strike Industries Link Angled QD — алюминиевая база QD антабки под углом 30° для M-LOK и KeyMod. Обзор, особенности, применение, цена и комплект. Купить в TOPGUN."
+ },
+ "technical": [
+  {
+   "key": "Країна походження",
+   "value": "США",
+   "sources": [
+    "xtarget.com.ua",
+    "stvol.ua"
+   ]
+  },
+  {
+   "key": "Призначення",
+   "value": "Для гвинтівки",
+   "sources": [
+    "xtarget.com.ua"
+   ]
+  },
+  {
+   "key": "Тип",
+   "value": "База (кріплення) QD антабки",
+   "sources": [
+    "xtarget.com.ua",
+    "stvol.ua"
+   ]
+  },
+  {
+   "key": "Маса, г",
+   "value": "9",
+   "sources": [
+    "stvol.ua",
+    "xtarget.com.ua"
+   ]
+  },
+  {
+   "key": "Довжина загальна, мм",
+   "value": "35",
+   "sources": [
+    "stvol.ua",
+    "xtarget.com.ua"
+   ]
+  },
+  {
+   "key": "Ширина, мм",
+   "value": "16",
+   "sources": [
+    "stvol.ua",
+    "xtarget.com.ua"
+   ]
+  },
+  {
+   "key": "Висота, мм",
+   "value": "14",
+   "sources": [
+    "stvol.ua",
+    "xtarget.com.ua"
+   ]
+  },
+  {
+   "key": "Матеріал",
+   "value": "Алюміній",
+   "sources": [
+    "stvol.ua"
+   ]
+  },
+  {
+   "key": "Сумісність",
+   "value": "M-LOK (1 слот), KeyMod (3 слоти)",
+   "sources": [
+    "stvol.ua",
+    "xtarget.com.ua"
+   ]
+  },
+  {
+   "key": "Колір",
+   "value": "Червоний",
+   "sources": [
+    "xtarget.com.ua"
+   ]
+  }
+ ],
+ "draft": "---\ntitle: Strike Industries Link Angled QD — кутова база QD антабки M-LOK/KeyMod, червона: купити, ціна, характеристики\ndescription: Strike Industries Link Angled QD — алюмінієва база QD антабки під кутом 30° для M-LOK і KeyMod. Огляд, особливості, застосування, ціна і комплект. Купити в TOPGUN.\nh1: Strike Industries Link Angled QD — кутова база QD антабки\nalts:\n  - Strike Industries Link Angled QD фото 1\n  - Strike Industries Link Angled QD фото 2\n---\n\nStrike Industries Link Angled QD — кутова база для цівки гвинтівки. Вона ставить гніздо швидкознімної антабки під кутом 30 градусів до напрямної. Корпус виготовлено з алюмінію, вага становить лише 9 грамів. Розміри бази — 35 × 16 × 14 мм. Strike Industries Link Angled QD сумісна з M-LOK і KeyMod. Колір цієї версії деталі — червоний.\n\n## Огляд Strike Industries Link Angled QD\n\nStrike Industries Link Angled QD належить до лінійки аксесуарів LINK американського бренду. Ця система монтажу підходить і для слотів M-LOK, і для KeyMod. Для установки потрібен один слот M-LOK або три слоти KeyMod. Довжина бази — 35 мм, висота — 14 мм. Ширина алюмінієвого корпусу становить рівно 16 мм. Маса становить 9 грамів, тож цівка майже не важчає.\n\nПовні характеристики виробу наведено в таблиці на цій сторінці. Нижче коротко зібрано головні характеристики цієї деталі. Матеріал корпусу — міцна алюмінієва конструкція. Країна виробництва, за даними постачальника, — США. Призначення за даними постачальника — для гвинтівки.\n\n## Кут 30 градусів у Strike Industries Link Angled QD\n\nГоловна особливість Strike Industries Link Angled QD — нахил гнізда під антабку. Звичайна база стоїть під 90 градусів до площини напрямної. Тут гніздо розвернуто на 30 градусів, тому встановлення і зняття природніші. Після монтажу ремінь тримає зручний кут відносно цівки. Він не зачіпає інших аксесуарів на зброї.\n\nЩе одна перевага Strike Industries Link Angled QD — вбудоване антиобертання. Гніздо не провертається під навантаженням ременя. Корпус низькопрофільний і не має виступів для зачепів. Тому деталь не заважає руці в положенні для стрільби. Сама швидкознімна петля до комплекту поставки не входить.\n\n## Для чого підходить Strike Industries Link Angled QD\n\nStrike Industries Link Angled QD знадобиться власникам гвинтівок у таких випадках:\n\n- монтаж швидкознімної антабки на цівку зі слотами M-LOK;\n- встановлення на цівку з отворами KeyMod;\n- ергономічне розміщення точки кріплення ременя;\n- щоб ремінь не зачіпав ліхтар чи інші аксесуари;\n- легке доповнення збірки без помітної ваги.\n\n## Ціна і комплект Link Angled QD\n\nЦіна Strike Industries Link Angled QD у TOPGUN — {{price}}. У червні 2026 року ціна в іншому магазині становила 2530 ₴. Кутове сталеве кріплення SI дешевше, бо не має гнізда QD. Швидкознімна антабка Strike Industries Stainless Steel дорожча, бо це готова петля. Модель SI-AMBUSH із суцільної сталі теж дорожча.\n\nДо комплекту входить одна база Link A QD. Також є Т-подібний ключ і гвинт під шестигранник. Тому орієнтовний комплект — лише база з ключем і гвинтом. Сумісних аксесуарів у каталозі зараз немає, тож купити варто саму базу. Відгуки покупців про цю деталь можна залишити нижче. Ваші відгуки та оцінки допоможуть іншим стрільцям.\n\n## Купити Strike Industries Link Angled QD у TOPGUN\n\nКупити Strike Industries Link Angled QD можна в TOPGUN. Доставляємо замовлення по всій Україні службами доставки. База є в наявності, ціна актуальна на сайті. Характеристики та відгуки дивіться на цій сторінці. Це легка база антабки Strike Industries для цівок M-LOK і KeyMod. Перш ніж купити, уточніть у менеджера сумісність. Інші вироби шукайте в розділі [ремінь для зброї](/categories/sporyadzhennya/remeni-ta-antabky). Там зібрано петлі, бази та ремені для гвинтівок.\n"
+}
