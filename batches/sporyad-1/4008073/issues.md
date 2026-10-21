@@ -1,0 +1,1 @@
+- prom.ua і xtarget.com.ua вказують бренд/виробника «Clipsal» замість Clip & Carry.
