@@ -1,0 +1,37 @@
+[
+  {
+    "key": "Країна походження",
+    "value": "США",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Гарантія",
+    "value": "6",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Сумка",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "зелений",
+    "sources": [
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Розміри",
+    "value": "L",
+    "sources": [
+      "stvol.ua"
+    ]
+  }
+]

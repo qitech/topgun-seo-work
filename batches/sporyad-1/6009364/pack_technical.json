@@ -1,0 +1,37 @@
+[
+  {
+    "key": "Колір",
+    "value": "Чорний",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Країна походження",
+    "value": "Україна",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Маса, г",
+    "value": "100 г",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Розміри",
+    "value": "70х50х40 мм",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Сумісність",
+    "value": "Glock-17, Glock-22",
+    "sources": [
+      "prom.ua"
+    ]
+  }
+]

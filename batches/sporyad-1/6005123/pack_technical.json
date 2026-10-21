@@ -1,0 +1,53 @@
+[
+  {
+    "key": "Країна походження",
+    "value": "США",
+    "sources": [
+      "xtarget.com.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "Алюміній",
+    "sources": [
+      "xtarget.com.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Призначення",
+    "value": "Для всіх видів зброї",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Сошки",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Упаковка",
+    "value": "Блістер",
+    "sources": [
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Маса, г",
+    "value": "340",
+    "sources": [
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Чорний / Матовий",
+    "sources": [
+      "stvol.ua"
+    ]
+  }
+]

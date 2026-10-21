@@ -1,0 +1,96 @@
+[
+  {
+    "key": "Матеріал",
+    "value": "Нейлон",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Чорний",
+    "sources": [
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Об`єм",
+    "value": "45 л",
+    "sources": [
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Висота, мм",
+    "value": "70 см",
+    "sources": [
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Ширина, мм",
+    "value": "36 см",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Глибина",
+    "value": "26 см",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Кількість лямок",
+    "value": "2",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Призначення",
+    "value": "туристичний",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Стать",
+    "value": "Унісекс",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Вікова група",
+    "value": "Для дорослих",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Туристичні",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Маса, г",
+    "value": "2,15 кг",
+    "sources": [
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Країна походження",
+    "value": "Австралия",
+    "sources": [
+      "stvol.ua"
+    ]
+  }
+]

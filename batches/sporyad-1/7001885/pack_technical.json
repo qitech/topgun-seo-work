@@ -1,0 +1,45 @@
+[
+  {
+    "key": "Країна походження",
+    "value": "США",
+    "sources": [
+      "xtarget.com.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Призначення",
+    "value": "Для гвинтівки",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Антабки",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Маса, кг",
+    "value": "9",
+    "sources": [
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Довжина загальна, мм",
+    "value": "35 мм",
+    "sources": [
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "Алюміній",
+    "sources": [
+      "stvol.ua"
+    ]
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "key": "Колір",
+    "value": "Чорний",
+    "sources": [
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Країна походження",
+    "value": "Україна",
+    "sources": [
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Маса, г",
+    "value": "3100",
+    "sources": [
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Упаковка",
+    "value": "Картонна коробка",
+    "sources": [
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Розміри",
+    "value": "M",
+    "sources": [
+      "prom.ua",
+      "stvol.ua"
+    ]
+  }
+]

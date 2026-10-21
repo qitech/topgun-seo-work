@@ -1,0 +1,60 @@
+[
+  {
+    "key": "Матеріал",
+    "value": "Пластик",
+    "sources": [
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Країна походження",
+    "value": "Італія",
+    "sources": [
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Кейс",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Товщина",
+    "value": "10 см",
+    "sources": [
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Ширина, мм",
+    "value": "33 см",
+    "sources": [
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Маса, г",
+    "value": "3 кг",
+    "sources": [
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Чорний",
+    "sources": [
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Довжина загальна, мм",
+    "value": "90 см",
+    "sources": [
+      "stvol.ua"
+    ]
+  }
+]

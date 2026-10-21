@@ -1,0 +1,38 @@
+[
+  {
+    "key": "Вид утеплювача",
+    "value": "Без утеплювача",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Розміри",
+    "value": "XXL",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Жилет",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Чорний-Сірий",
+    "sources": [
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "65% поліестер, 35% бавовна",
+    "sources": [
+      "stvol.ua"
+    ]
+  }
+]

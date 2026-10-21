@@ -1,0 +1,54 @@
+[
+  {
+    "key": "Країна походження",
+    "value": "Італія",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Чорний",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Кількість відділень",
+    "value": "1",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "Поліестер",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Місткість",
+    "value": "1",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Калібр",
+    "value": "12 До",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Чохол",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua"
+    ]
+  }
+]

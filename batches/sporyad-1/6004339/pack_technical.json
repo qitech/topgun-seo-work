@@ -1,0 +1,44 @@
+[
+  {
+    "key": "Країна походження",
+    "value": "США",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Чорний",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "Алюміній",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Монопод",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Упаковка",
+    "value": "Блістер",
+    "sources": [
+      "stvol.ua"
+    ]
+  }
+]

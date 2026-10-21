@@ -1,0 +1,44 @@
+[
+  {
+    "key": "Висота, мм",
+    "value": "153 мм",
+    "sources": [
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Ширина, мм",
+    "value": "178 мм",
+    "sources": [
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Маса, г",
+    "value": "205",
+    "sources": [
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Чорний",
+    "sources": [
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Країна походження",
+    "value": "США",
+    "sources": [
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "полімер",
+    "sources": [
+      "stvol.ua"
+    ]
+  }
+]

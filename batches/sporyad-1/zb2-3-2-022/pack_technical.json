@@ -1,0 +1,70 @@
+[
+  {
+    "key": "Країна походження",
+    "value": "Китай",
+    "sources": [
+      "xtarget.com.ua",
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Чорний",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Довжина загальна, мм",
+    "value": "165 см",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "Алюмінієвий сплав",
+    "sources": [
+      "xtarget.com.ua",
+      "debra.com.ua"
+    ]
+  },
+  {
+    "key": "Призначення",
+    "value": "Вогнепальна зброя",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Стрілецький упор",
+    "sources": [
+      "xtarget.com.ua",
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Маса, г",
+    "value": "600",
+    "sources": [
+      "debra.com.ua",
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Висота, мм",
+    "value": "90-165 см",
+    "sources": [
+      "debra.com.ua",
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Поколение",
+    "value": "3-Gen",
+    "sources": [
+      "zbroia.com.ua"
+    ]
+  }
+]

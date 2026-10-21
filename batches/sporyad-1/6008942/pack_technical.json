@@ -1,0 +1,45 @@
+[
+  {
+    "key": "Колір",
+    "value": "Сірий",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Країна походження",
+    "value": "США",
+    "sources": [
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Кількість лямок",
+    "value": "2",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Об`єм",
+    "value": "22",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Маса, г",
+    "value": "1,7 кг",
+    "sources": [
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "100% поліестер",
+    "sources": [
+      "stvol.ua"
+    ]
+  }
+]

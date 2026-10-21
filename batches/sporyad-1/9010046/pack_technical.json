@@ -1,0 +1,31 @@
+[
+  {
+    "key": "Модель",
+    "value": "21633-01",
+    "sources": [
+      "debra.com.ua"
+    ]
+  },
+  {
+    "key": "Пропускає повітря",
+    "value": "Так",
+    "sources": [
+      "debra.com.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Синій / Чорний",
+    "sources": [
+      "debra.com.ua"
+    ]
+  },
+  {
+    "key": "Розміри",
+    "value": "XL",
+    "sources": [
+      "debra.com.ua",
+      "stvol.ua"
+    ]
+  }
+]

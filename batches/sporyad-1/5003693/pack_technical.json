@@ -1,0 +1,80 @@
+[
+  {
+    "key": "Країна походження",
+    "value": "Китай",
+    "sources": [
+      "zbroia.com.ua",
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Модель",
+    "value": "Универсальная",
+    "sources": [
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Довжина загальна, мм",
+    "value": "92",
+    "sources": [
+      "zbroia.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Висота, мм",
+    "value": "29",
+    "sources": [
+      "zbroia.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Ширина, мм",
+    "value": "11",
+    "sources": [
+      "zbroia.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "Нейлон 900D",
+    "sources": [
+      "zbroia.com.ua",
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Сірий/Coyote",
+    "sources": [
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Чохол",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Кількість відділень",
+    "value": "1",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Маса, г",
+    "value": "2.2 г",
+    "sources": [
+      "prom.ua",
+      "stvol.ua"
+    ]
+  }
+]

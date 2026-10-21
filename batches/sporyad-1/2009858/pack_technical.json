@@ -1,0 +1,46 @@
+[
+  {
+    "key": "Країна походження",
+    "value": "Бельгія",
+    "sources": [
+      "xtarget.com.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Калібр",
+    "value": "12 мм",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Коричневий",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "Дерево",
+    "sources": [
+      "xtarget.com.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Призначення",
+    "value": "Для рушниці",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Приклад",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  }
+]

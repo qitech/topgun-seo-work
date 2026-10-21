@@ -1,0 +1,48 @@
+[
+  {
+    "key": "Колір",
+    "value": "Чорний",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Стать",
+    "value": "Унісекс",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Міський",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Об `єм",
+    "value": "18 л",
+    "sources": [
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Країна походження",
+    "value": "Іспанія",
+    "sources": [
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "замша",
+    "sources": [
+      "stvol.ua"
+    ]
+  }
+]

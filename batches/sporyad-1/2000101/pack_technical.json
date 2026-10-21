@@ -1,0 +1,31 @@
+[
+  {
+    "key": "Країна походження",
+    "value": "Італія",
+    "sources": [
+      "xtarget.com.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Чорний",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "Сталь",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Гарантія",
+    "value": "1",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  }
+]

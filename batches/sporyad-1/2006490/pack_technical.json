@@ -1,0 +1,45 @@
+[
+  {
+    "key": "Країна походження",
+    "value": "Туреччина",
+    "sources": [
+      "xtarget.com.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Калібр",
+    "value": "12 мм",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Сірий",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "Сталь",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Призначення",
+    "value": "Для рушниці",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Ударно-спусковий механізм",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  }
+]

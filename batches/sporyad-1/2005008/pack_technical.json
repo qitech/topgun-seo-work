@@ -1,0 +1,38 @@
+[
+  {
+    "key": "Країна походження",
+    "value": "Чехія",
+    "sources": [
+      "xtarget.com.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Чорний",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "Сталь",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Призначення",
+    "value": "Для гвинтівки",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Ударно-спусковий механізм",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  }
+]

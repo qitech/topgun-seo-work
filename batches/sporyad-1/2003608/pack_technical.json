@@ -1,0 +1,31 @@
+[
+  {
+    "key": "Країна походження",
+    "value": "Італія",
+    "sources": [
+      "xtarget.com.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Чорний",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Призначення",
+    "value": "Вогнепальна зброя",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Цілик",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  }
+]

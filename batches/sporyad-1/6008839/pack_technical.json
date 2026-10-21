@@ -1,0 +1,121 @@
+[
+  {
+    "key": "Країна походження",
+    "value": "Швеція",
+    "sources": [
+      "xtarget.com.ua",
+      "ibis.net.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Вікова група",
+    "value": "Для дорослих",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Бежевий",
+    "sources": [
+      "xtarget.com.ua",
+      "ibis.net.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Призначення",
+    "value": "Для стрілянини",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Навушники",
+    "sources": [
+      "xtarget.com.ua",
+      "ibis.net.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Модель",
+    "value": "Supreme MIL AUX",
+    "sources": [
+      "ibis.net.ua"
+    ]
+  },
+  {
+    "key": "Гарантія",
+    "value": "24 місяці",
+    "sources": [
+      "ibis.net.ua"
+    ]
+  },
+  {
+    "key": "Шумозаглушення (SNR), дБ",
+    "value": "26",
+    "sources": [
+      "ibis.net.ua"
+    ]
+  },
+  {
+    "key": "Сертифікація",
+    "value": "MIL-STD-461,",
+    "sources": [
+      "ibis.net.ua"
+    ]
+  },
+  {
+    "key": "Час роботи",
+    "value": "600",
+    "sources": [
+      "ibis.net.ua"
+    ]
+  },
+  {
+    "key": "Елемент живлення",
+    "value": "LR03",
+    "sources": [
+      "ibis.net.ua"
+    ]
+  },
+  {
+    "key": "Маса, г",
+    "value": "375",
+    "sources": [
+      "ibis.net.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Довжина загальна, мм",
+    "value": "0,210",
+    "sources": [
+      "ibis.net.ua"
+    ]
+  },
+  {
+    "key": "Ширина, мм",
+    "value": "0,150",
+    "sources": [
+      "ibis.net.ua"
+    ]
+  },
+  {
+    "key": "Висота, мм",
+    "value": "0,140",
+    "sources": [
+      "ibis.net.ua"
+    ]
+  },
+  {
+    "key": "Автономна робота",
+    "value": "до 600 часов",
+    "sources": [
+      "stvol.ua"
+    ]
+  }
+]

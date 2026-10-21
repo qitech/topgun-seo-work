@@ -1,0 +1,67 @@
+[
+  {
+    "key": "Модель",
+    "value": "Балон з CO2",
+    "sources": [
+      "ibis.net.ua"
+    ]
+  },
+  {
+    "key": "Країна походження",
+    "value": "Німеччина",
+    "sources": [
+      "ibis.net.ua",
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Ємність газу, г",
+    "value": "88",
+    "sources": [
+      "ibis.net.ua"
+    ]
+  },
+  {
+    "key": "Пістолети пневматичні",
+    "value": "Зі стиснутим газом CO2",
+    "sources": [
+      "ibis.net.ua"
+    ]
+  },
+  {
+    "key": "Пневматична зброя",
+    "value": "Гвинтівки зі стисненим газом CO2",
+    "sources": [
+      "ibis.net.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Білий",
+    "sources": [
+      "ibis.net.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Балон",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "Алюміній",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Об `єм",
+    "value": "88 гр.",
+    "sources": [
+      "stvol.ua"
+    ]
+  }
+]

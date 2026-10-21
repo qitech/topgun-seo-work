@@ -1,0 +1,44 @@
+[
+  {
+    "key": "Висота, мм",
+    "value": "10 см",
+    "sources": [
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Ширина, мм",
+    "value": "30,5 см",
+    "sources": [
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Маса, г",
+    "value": "3,1 кг",
+    "sources": [
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Країна походження",
+    "value": "Китай",
+    "sources": [
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Довжина загальна, мм",
+    "value": "127 см",
+    "sources": [
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "Нейлон (900D)",
+    "sources": [
+      "stvol.ua"
+    ]
+  }
+]

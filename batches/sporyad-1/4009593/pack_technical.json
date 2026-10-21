@@ -1,0 +1,32 @@
+[
+  {
+    "key": "Країна походження",
+    "value": "США",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "Сталь",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Призначення",
+    "value": "Універсальна",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Срібляста",
+    "sources": [
+      "prom.ua"
+    ]
+  }
+]

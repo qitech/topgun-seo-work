@@ -1,0 +1,88 @@
+[
+  {
+    "key": "Країна походження",
+    "value": "Італія",
+    "sources": [
+      "zbroia.com.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Кейс пистолетный",
+    "sources": [
+      "zbroia.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Модель",
+    "value": "Полуавтоматическое ружье ; Гладкоствольное ружье ; АК ; Универсальная ; Тип Кейс",
+    "sources": [
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Довжина загальна, мм",
+    "value": "965",
+    "sources": [
+      "zbroia.com.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Висота, мм",
+    "value": "230",
+    "sources": [
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Ширина, мм",
+    "value": "100",
+    "sources": [
+      "zbroia.com.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "Пластик ; Сталь ; Призначення Для ружей",
+    "sources": [
+      "zbroia.com.ua",
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Чорний",
+    "sources": [
+      "zbroia.com.ua",
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Маса, кг",
+    "value": "2,2",
+    "sources": [
+      "zbroia.com.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Кількість відділень",
+    "value": "1",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Товщина",
+    "value": "10 см",
+    "sources": [
+      "stvol.ua"
+    ]
+  }
+]

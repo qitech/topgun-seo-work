@@ -1,0 +1,200 @@
+[
+  {
+    "key": "Країна походження",
+    "value": "США",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Вид сейфа",
+    "value": "збройові сейфи та шафи",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Чорний",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Кількість секцій",
+    "value": "1",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Тип замка",
+    "value": "Механічний ключовий",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Гарантія",
+    "value": "12 міс",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Max кількість комбінацій",
+    "value": "50",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Відкривання ножа",
+    "value": "Праве",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "Вуглецева сталь",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Розташування",
+    "value": "Вертикальне",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Основний/Додатковий",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "OSD-меню",
+    "value": "Ні",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Підсвітка екрану",
+    "value": "Ні",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Аварійне підживлення",
+    "value": "Ні",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Маса, г",
+    "value": "4 кг",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Висота, мм",
+    "value": "10.24 мм",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Додаткове джерело живлення",
+    "value": "Батарейки одноразові",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Живлення",
+    "value": "Батарейки одноразові",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Вандалозахист",
+    "value": "Так",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Кількість шаблонів відбитка пальця",
+    "value": "50",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Кількість шаблонів карт/ключів",
+    "value": "50",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Кількість шаблонів малюнка вен долоні",
+    "value": "50",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Кількість шаблонів малюнка вен пальця",
+    "value": "50",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Можливість самостійного кодування",
+    "value": "Ні",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Підсвічування клавіш",
+    "value": "Ні",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Кодонабірна панель",
+    "value": "Ні",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Кріпильний комплект",
+    "value": "Так",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Кількість ручок",
+    "value": "Немає",
+    "sources": [
+      "prom.ua"
+    ]
+  }
+]

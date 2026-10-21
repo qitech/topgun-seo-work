@@ -1,0 +1,49 @@
+[
+  {
+    "key": "Країна походження",
+    "value": "Німеччина",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Чорний",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "Нейлон",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Місткість",
+    "value": "1",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Чохол",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Довжина загальна, мм",
+    "value": "127 см",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  }
+]

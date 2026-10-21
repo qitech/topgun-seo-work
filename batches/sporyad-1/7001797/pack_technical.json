@@ -1,0 +1,129 @@
+[
+  {
+    "key": "Модель",
+    "value": "Сошки",
+    "sources": [
+      "ibis.net.ua"
+    ]
+  },
+  {
+    "key": "Країна походження",
+    "value": "США",
+    "sources": [
+      "ibis.net.ua",
+      "zbroia.com.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Гарантія",
+    "value": "12 місяців",
+    "sources": [
+      "ibis.net.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Picatinny",
+    "sources": [
+      "ibis.net.ua",
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Шарнірна база",
+    "value": "Так",
+    "sources": [
+      "ibis.net.ua"
+    ]
+  },
+  {
+    "key": "Підпружинені ніжки",
+    "value": "Так",
+    "sources": [
+      "ibis.net.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "Алюміній,",
+    "sources": [
+      "ibis.net.ua",
+      "zbroia.com.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Маса, г",
+    "value": "312 г",
+    "sources": [
+      "ibis.net.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Чорний",
+    "sources": [
+      "ibis.net.ua"
+    ]
+  },
+  {
+    "key": "Довжина загальна, мм",
+    "value": "0,238",
+    "sources": [
+      "ibis.net.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Ширина, мм",
+    "value": "0,102",
+    "sources": [
+      "ibis.net.ua"
+    ]
+  },
+  {
+    "key": "Висота, мм",
+    "value": "0,076",
+    "sources": [
+      "ibis.net.ua",
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Диаметр колец / Посадочное место",
+    "value": "Weaver/Picatinny",
+    "sources": [
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Подпружиненные ножки",
+    "value": "Так",
+    "sources": [
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Шарнирная база",
+    "value": "Так",
+    "sources": [
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Фіксація на зброю",
+    "value": "Постійна",
+    "sources": [
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Кріплення",
+    "value": "Вівер/Пікатінні",
+    "sources": [
+      "stvol.ua"
+    ]
+  }
+]

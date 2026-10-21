@@ -1,0 +1,19 @@
+[
+  {
+    "key": "Країна походження",
+    "value": "Франція",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Горн",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua"
+    ]
+  }
+]

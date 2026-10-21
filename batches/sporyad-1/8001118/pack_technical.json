@@ -1,0 +1,18 @@
+[
+  {
+    "key": "Країна походження",
+    "value": "Німеччина",
+    "sources": [
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "Ріг",
+    "sources": [
+      "prom.ua",
+      "stvol.ua"
+    ]
+  }
+]

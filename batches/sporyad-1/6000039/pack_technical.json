@@ -1,0 +1,54 @@
+[
+  {
+    "key": "Країна походження",
+    "value": "Італія",
+    "sources": [
+      "xtarget.com.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Гарантія",
+    "value": "12 міс",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Коричневий",
+    "sources": [
+      "xtarget.com.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "Натуральна шкіра",
+    "sources": [
+      "xtarget.com.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Чохол",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Довжина загальна, мм",
+    "value": "120 см",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Водонепроникність",
+    "value": "Водоотталкивающая обробка",
+    "sources": [
+      "stvol.ua"
+    ]
+  }
+]

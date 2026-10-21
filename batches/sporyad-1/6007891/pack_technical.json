@@ -1,0 +1,37 @@
+[
+  {
+    "key": "Країна походження",
+    "value": "США",
+    "sources": [
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Назва виробника",
+    "value": "Kit, Buttpad Spacer, MRAD, MK 22",
+    "sources": [
+      "barrett.net"
+    ]
+  },
+  {
+    "key": "Сумісність",
+    "value": "гвинтівки Barrett MRAD / MK 22",
+    "sources": [
+      "barrett.net"
+    ]
+  },
+  {
+    "key": "Склад комплекту (за фото)",
+    "value": "4 прокладки, шайби, гвинти, шестигранний ключ",
+    "sources": [
+      "barrett.net"
+    ]
+  },
+  {
+    "key": "Бренд",
+    "value": "Barrett",
+    "sources": [
+      "barrett.net"
+    ]
+  }
+]

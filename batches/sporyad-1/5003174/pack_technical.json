@@ -1,0 +1,52 @@
+[
+  {
+    "key": "Країна походження",
+    "value": "США",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Гарантія",
+    "value": "12 міс",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Діаметр окуляра",
+    "value": "56 мм",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Чорний",
+    "sources": [
+      "xtarget.com.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Оптичний",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "авіаційний алюміній",
+    "sources": [
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Упаковка",
+    "value": "Блістер",
+    "sources": [
+      "stvol.ua"
+    ]
+  }
+]

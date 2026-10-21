@@ -1,0 +1,25 @@
+[
+  {
+    "key": "Колір",
+    "value": "Чорний",
+    "sources": [
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Країна походження",
+    "value": "США",
+    "sources": [
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Сумісність",
+    "value": "BROWNING",
+    "sources": [
+      "prom.ua"
+    ]
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "key": "Країна походження",
+    "value": "Швеція",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Вікова група",
+    "value": "Для дорослих",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Бежевий",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Призначення",
+    "value": "Для стрілянини",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Навушники",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Рівень шумозаглушення SNR",
+    "value": "26 дБ",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Автономна робота",
+    "value": "до 600 часов",
+    "sources": [
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Маса, г",
+    "value": "277",
+    "sources": [
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Живлення",
+    "value": "2 х ААА",
+    "sources": [
+      "stvol.ua"
+    ]
+  }
+]

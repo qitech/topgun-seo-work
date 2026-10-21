@@ -1,0 +1,61 @@
+[
+  {
+    "key": "Країна походження",
+    "value": "Китай",
+    "sources": [
+      "xtarget.com.ua",
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Чорний",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "Алюміній",
+    "sources": [
+      "xtarget.com.ua",
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Призначення",
+    "value": "Для всіх видів зброї",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Сошки",
+    "sources": [
+      "xtarget.com.ua",
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "База крепления",
+    "value": "V-подобный упор",
+    "sources": [
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Висота, мм",
+    "value": "Регулируемая 90 - 165",
+    "sources": [
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Маса, кг",
+    "value": "1,65",
+    "sources": [
+      "zbroia.com.ua"
+    ]
+  }
+]

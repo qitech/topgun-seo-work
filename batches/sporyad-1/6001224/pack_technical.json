@@ -1,0 +1,17 @@
+[
+  {
+    "key": "Країна походження",
+    "value": "США",
+    "sources": [
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Ящик",
+    "sources": [
+      "prom.ua"
+    ]
+  }
+]

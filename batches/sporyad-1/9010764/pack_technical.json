@@ -1,0 +1,81 @@
+[
+  {
+    "key": "Модель",
+    "value": "27295-01",
+    "sources": [
+      "debra.com.ua"
+    ]
+  },
+  {
+    "key": "Розміри",
+    "value": "M",
+    "sources": [
+      "debra.com.ua",
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Вид утеплювача",
+    "value": "Без утеплювача",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Поліестер",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Темно-синій",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Бренд",
+    "value": "Beretta",
+    "sources": [
+      "dam.beretta.com"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "легке дихаюче синтетичне волокно з обробкою DWR",
+    "sources": [
+      "dam.beretta.com"
+    ]
+  },
+  {
+    "key": "Застібка",
+    "value": "блискавка YKK",
+    "sources": [
+      "dam.beretta.com"
+    ]
+  },
+  {
+    "key": "Кишені",
+    "value": "передні на блискавках",
+    "sources": [
+      "dam.beretta.com"
+    ]
+  },
+  {
+    "key": "Бічні вставки",
+    "value": "еластичні",
+    "sources": [
+      "dam.beretta.com"
+    ]
+  },
+  {
+    "key": "Низ",
+    "value": "регульоване стягування",
+    "sources": [
+      "dam.beretta.com"
+    ]
+  }
+]

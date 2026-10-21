@@ -1,0 +1,63 @@
+[
+  {
+    "key": "Країна походження",
+    "value": "США",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Гарантія",
+    "value": "12 міс",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Чорний",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "Пластик",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Кейс",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Довжина загальна, мм",
+    "value": "132 см",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Висота, мм",
+    "value": "12,7 см",
+    "sources": [
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Ширина, мм",
+    "value": "35,5 см",
+    "sources": [
+      "stvol.ua"
+    ]
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "key": "Країна походження",
+    "value": "Швеція",
+    "sources": [
+      "xtarget.com.ua",
+      "ibis.net.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Вікова група",
+    "value": "Для дорослих",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Призначення",
+    "value": "Для стрілянини",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Навушники",
+    "sources": [
+      "xtarget.com.ua",
+      "ibis.net.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Модель",
+    "value": "Supreme Mil CC",
+    "sources": [
+      "ibis.net.ua"
+    ]
+  },
+  {
+    "key": "Гарантія",
+    "value": "24 місяці",
+    "sources": [
+      "ibis.net.ua"
+    ]
+  },
+  {
+    "key": "Шумозаглушення (SNR), дБ",
+    "value": "26",
+    "sources": [
+      "ibis.net.ua"
+    ]
+  },
+  {
+    "key": "Сертифікація",
+    "value": "MIL-STD-461",
+    "sources": [
+      "ibis.net.ua"
+    ]
+  },
+  {
+    "key": "Час роботи",
+    "value": "600 год",
+    "sources": [
+      "ibis.net.ua"
+    ]
+  },
+  {
+    "key": "Елемент живлення",
+    "value": "AAA",
+    "sources": [
+      "ibis.net.ua"
+    ]
+  },
+  {
+    "key": "Маса, г",
+    "value": "368",
+    "sources": [
+      "ibis.net.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Зелений",
+    "sources": [
+      "ibis.net.ua",
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Довжина загальна, мм",
+    "value": "0,200",
+    "sources": [
+      "ibis.net.ua"
+    ]
+  },
+  {
+    "key": "Ширина, мм",
+    "value": "0,160",
+    "sources": [
+      "ibis.net.ua"
+    ]
+  },
+  {
+    "key": "Висота, мм",
+    "value": "0,140",
+    "sources": [
+      "ibis.net.ua"
+    ]
+  },
+  {
+    "key": "Автономна робота",
+    "value": "до 600 часов",
+    "sources": [
+      "stvol.ua"
+    ]
+  }
+]

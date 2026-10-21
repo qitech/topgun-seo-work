@@ -1,0 +1,68 @@
+[
+  {
+    "key": "Країна походження",
+    "value": "США",
+    "sources": [
+      "xtarget.com.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Чорний",
+    "sources": [
+      "xtarget.com.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Призначення",
+    "value": "Для гвинтівки",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Антабки",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "Сталь",
+    "sources": [
+      "xtarget.com.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Фіксація на зброю",
+    "value": "Постійна",
+    "sources": [
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Кріплення",
+    "value": "Вівер/Пікатінні",
+    "sources": [
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Упаковка",
+    "value": "Блістер",
+    "sources": [
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Маса, г",
+    "value": "37",
+    "sources": [
+      "stvol.ua"
+    ]
+  }
+]

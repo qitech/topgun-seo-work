@@ -1,0 +1,93 @@
+[
+  {
+    "key": "Країна походження",
+    "value": "Італія",
+    "sources": [
+      "xtarget.com.ua",
+      "debra.com.ua"
+    ]
+  },
+  {
+    "key": "Вікова група",
+    "value": "Для дорослих",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Гарантія",
+    "value": "12 міс",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Синій",
+    "sources": [
+      "xtarget.com.ua",
+      "debra.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "Термопластик",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Призначення",
+    "value": "Для стрілянини",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Навушники",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Модель",
+    "value": "24560-01",
+    "sources": [
+      "debra.com.ua"
+    ]
+  },
+  {
+    "key": "Упаковка",
+    "value": "Блістер",
+    "sources": [
+      "debra.com.ua"
+    ]
+  },
+  {
+    "key": "Додатково",
+    "value": "регульовані",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Додаткові характеристики",
+    "value": "складені",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Рівень шупопоглинання",
+    "value": "25 дБ (за стандартами SNR)",
+    "sources": [
+      "prom.ua"
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "key": "Бренд",
+    "value": "Vector Optics",
+    "sources": [
+      "topgun"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "Високоміцний алюміній / сталь / неопрен",
+    "sources": [
+      "topgun"
+    ]
+  },
+  {
+    "key": "Призначення",
+    "value": "Монтаж та захист оптичних прицілів",
+    "sources": [
+      "topgun"
+    ]
+  },
+  {
+    "key": "Сумісність",
+    "value": "Планки Picatinny / Weaver або оптичні труби",
+    "sources": [
+      "topgun"
+    ]
+  }
+]

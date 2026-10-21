@@ -1,0 +1,54 @@
+[
+  {
+    "key": "Модель",
+    "value": "21426-01",
+    "sources": [
+      "debra.com.ua",
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Маса, г",
+    "value": "600",
+    "sources": [
+      "debra.com.ua"
+    ]
+  },
+  {
+    "key": "Упаковка",
+    "value": "Блістер",
+    "sources": [
+      "debra.com.ua"
+    ]
+  },
+  {
+    "key": "Висота, мм",
+    "value": "90-165 см",
+    "sources": [
+      "debra.com.ua",
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "Алюмінієвий сплав",
+    "sources": [
+      "debra.com.ua",
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Країна походження",
+    "value": "Китай",
+    "sources": [
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Триподы",
+    "sources": [
+      "zbroia.com.ua"
+    ]
+  }
+]

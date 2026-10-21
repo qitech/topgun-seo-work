@@ -1,0 +1,61 @@
+[
+  {
+    "key": "Колір",
+    "value": "Койот коричневий (Coyote Brown)",
+    "sources": [
+      "condoroutdoor.com",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Підсумки — для магазинів",
+    "sources": [
+      "condoroutdoor.com",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "Нейлон",
+    "sources": [
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Забарвлення",
+    "value": "Однотонна",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Висота, мм",
+    "value": "12",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Ширина, мм",
+    "value": "2.5",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Довжина загальна, мм",
+    "value": "26.5",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Маса, г",
+    "value": "0,3 кг",
+    "sources": [
+      "stvol.ua"
+    ]
+  }
+]

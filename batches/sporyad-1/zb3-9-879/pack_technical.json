@@ -1,0 +1,30 @@
+[
+  {
+    "key": "Колір",
+    "value": "Хакі",
+    "sources": [
+      "shaptala.com.ua"
+    ]
+  },
+  {
+    "key": "Довжина загальна, мм",
+    "value": "100",
+    "sources": [
+      "shaptala.com.ua"
+    ]
+  },
+  {
+    "key": "Висота, мм",
+    "value": "25",
+    "sources": [
+      "shaptala.com.ua"
+    ]
+  },
+  {
+    "key": "Діапазон внутрішньої довжини",
+    "value": "91-100",
+    "sources": [
+      "shaptala.com.ua"
+    ]
+  }
+]

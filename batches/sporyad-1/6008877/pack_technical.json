@@ -1,0 +1,33 @@
+[
+  {
+    "key": "Матеріал",
+    "value": "Пластик",
+    "sources": [
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Чорний",
+    "sources": [
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Країна походження",
+    "value": "Китай",
+    "sources": [
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Модель",
+    "value": "Glock 34",
+    "sources": [
+      "prom.ua"
+    ]
+  }
+]

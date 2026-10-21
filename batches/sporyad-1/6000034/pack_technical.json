@@ -1,0 +1,67 @@
+[
+  {
+    "key": "Країна походження",
+    "value": "Італія",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Гарантія",
+    "value": "12 міс",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Коричневий",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "Натуральна шкіра",
+    "sources": [
+      "xtarget.com.ua",
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Патронташ",
+    "sources": [
+      "xtarget.com.ua",
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Калібр",
+    "value": "От .223 Rem до .300 Win Mag",
+    "sources": [
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Довжина загальна, мм",
+    "value": "120",
+    "sources": [
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Количество патронов",
+    "value": "20",
+    "sources": [
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Додаткова інформація",
+    "value": "Водоотталкивающая обработка",
+    "sources": [
+      "zbroia.com.ua"
+    ]
+  }
+]

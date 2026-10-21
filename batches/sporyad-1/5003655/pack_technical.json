@@ -1,0 +1,32 @@
+[
+  {
+    "key": "Країна походження",
+    "value": "Китай",
+    "sources": [
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Маса, г",
+    "value": "17 г",
+    "sources": [
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Висота, мм",
+    "value": "12 мм",
+    "sources": [
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Діаметр",
+    "value": "31 мм",
+    "sources": [
+      "stvol.ua"
+    ]
+  }
+]

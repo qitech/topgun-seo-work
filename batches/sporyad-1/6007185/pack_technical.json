@@ -1,0 +1,72 @@
+[
+  {
+    "key": "Тип",
+    "value": "Ремни ружейные",
+    "sources": [
+      "zbroia.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Довжина загальна, мм",
+    "value": "90 - 103",
+    "sources": [
+      "zbroia.com.ua",
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "Неопрен ; Шкіра ; Расцветка Зелений",
+    "sources": [
+      "zbroia.com.ua",
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Додаткова інформація",
+    "value": "Водоотталкивающая обработка",
+    "sources": [
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Коричневий",
+    "sources": [
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Країна походження",
+    "value": "Україна",
+    "sources": [
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Висота, мм",
+    "value": "10 см",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Водонепроникність",
+    "value": "Водоотталкивающая обробка",
+    "sources": [
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Упаковка",
+    "value": "Картонна коробка",
+    "sources": [
+      "stvol.ua"
+    ]
+  }
+]

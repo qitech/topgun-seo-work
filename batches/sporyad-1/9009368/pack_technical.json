@@ -1,0 +1,55 @@
+[
+  {
+    "key": "Модель",
+    "value": "21633-01",
+    "sources": [
+      "debra.com.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Синій / Чорний",
+    "sources": [
+      "debra.com.ua",
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Розміри",
+    "value": "L",
+    "sources": [
+      "debra.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Пропускає повітря",
+    "value": "Так",
+    "sources": [
+      "debra.com.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "Поліестер",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Вид утеплювача",
+    "value": "Без утеплювача",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Жилет",
+    "sources": [
+      "prom.ua"
+    ]
+  }
+]

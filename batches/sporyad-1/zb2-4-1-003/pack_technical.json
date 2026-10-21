@@ -1,0 +1,37 @@
+[
+  {
+    "key": "Кут выброса",
+    "value": "Изменяемый по горизонтали",
+    "sources": [
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Місткість магазина",
+    "value": "2",
+    "sources": [
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Дальность выброса, м",
+    "value": "75",
+    "sources": [
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Управление",
+    "value": "Проводное (30 м)",
+    "sources": [
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Маса, г",
+    "value": "90",
+    "sources": [
+      "zbroia.com.ua"
+    ]
+  }
+]

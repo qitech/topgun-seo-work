@@ -1,0 +1,54 @@
+[
+  {
+    "key": "Модель",
+    "value": "Wave, Charge, Surg",
+    "sources": [
+      "ibis-gear.com"
+    ]
+  },
+  {
+    "key": "Гарантія",
+    "value": "12 місяців",
+    "sources": [
+      "ibis-gear.com"
+    ]
+  },
+  {
+    "key": "Комплектуючі та аксесуари (ножі)",
+    "value": "Запчастини",
+    "sources": [
+      "ibis-gear.com"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "Метал",
+    "sources": [
+      "ibis-gear.com",
+      "xtarget.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Країна походження",
+    "value": "США",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Призначення",
+    "value": "Універсальна",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Сріблястий матовий",
+    "sources": [
+      "stvol.ua"
+    ]
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "key": "Матеріал",
+    "value": "Алюміній",
+    "sources": [
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Упаковка",
+    "value": "Блістер",
+    "sources": [
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Маса, г",
+    "value": "284",
+    "sources": [
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Чорний / Матовий",
+    "sources": [
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Країна походження",
+    "value": "США",
+    "sources": [
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Довжина загальна, мм",
+    "value": "40,5-96,5 см",
+    "sources": [
+      "stvol.ua"
+    ]
+  }
+]

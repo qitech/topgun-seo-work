@@ -1,0 +1,46 @@
+[
+  {
+    "key": "Колір",
+    "value": "Чорний",
+    "sources": [
+      "condoroutdoor.com",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Плитоноски",
+    "sources": [
+      "condoroutdoor.com"
+    ]
+  },
+  {
+    "key": "Країна походження",
+    "value": "США",
+    "sources": [
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Маса, г",
+    "value": "1 кг",
+    "sources": [
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Характеристики тканин (1-й шар)",
+    "value": "Cordura",
+    "sources": [
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Характеристики тканин (2-й шар)",
+    "value": "100% поліестер",
+    "sources": [
+      "stvol.ua"
+    ]
+  }
+]

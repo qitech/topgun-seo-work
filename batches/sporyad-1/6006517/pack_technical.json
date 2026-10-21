@@ -1,0 +1,18 @@
+[
+  {
+    "key": "Країна походження",
+    "value": "США",
+    "sources": [
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Чорний матовий",
+    "sources": [
+      "prom.ua",
+      "stvol.ua"
+    ]
+  }
+]

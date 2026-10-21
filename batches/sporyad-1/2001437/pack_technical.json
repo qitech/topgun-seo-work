@@ -1,0 +1,52 @@
+[
+  {
+    "key": "Країна походження",
+    "value": "Іспанія",
+    "sources": [
+      "xtarget.com.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Призначення",
+    "value": "Для рушниці",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Приклад",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Модель",
+    "value": "Benelli Premium Plus",
+    "sources": [
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Упаковка",
+    "value": "Картонна коробка",
+    "sources": [
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "коричневий",
+    "sources": [
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "горіх",
+    "sources": [
+      "stvol.ua"
+    ]
+  }
+]

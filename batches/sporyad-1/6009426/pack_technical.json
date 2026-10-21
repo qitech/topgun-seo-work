@@ -1,0 +1,51 @@
+[
+  {
+    "key": "Матеріал",
+    "value": "Пластик",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Чорний",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Країна походження",
+    "value": "Італія",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Гарантія",
+    "value": "3 міс",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Кількість відділень",
+    "value": "1",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Місткість",
+    "value": "1",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Кобура",
+    "sources": [
+      "prom.ua"
+    ]
+  }
+]

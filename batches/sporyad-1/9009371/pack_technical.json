@@ -1,0 +1,30 @@
+[
+  {
+    "key": "Колір",
+    "value": "Синій",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Вид утеплювача",
+    "value": "Без утеплювача",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Розміри",
+    "value": "L",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Жилет",
+    "sources": [
+      "prom.ua"
+    ]
+  }
+]

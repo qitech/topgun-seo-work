@@ -1,0 +1,102 @@
+[
+  {
+    "key": "Країна походження",
+    "value": "Ізраїль",
+    "sources": [
+      "xtarget.com.ua",
+      "zbroia.com.ua",
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Чорний",
+    "sources": [
+      "xtarget.com.ua",
+      "zbroia.com.ua",
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Кількість відділень",
+    "value": "1",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "Пластик",
+    "sources": [
+      "xtarget.com.ua",
+      "zbroia.com.ua",
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Місткість",
+    "value": "1",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Особливості",
+    "value": "Внутрішня фіксація",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Калібр",
+    "value": "9 К",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Сумісність",
+    "value": "ПМ",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Кобура",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Модель",
+    "value": "M24",
+    "sources": [
+      "zbroia.com.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Додаткова інформація",
+    "value": "Кнопка для фиксации",
+    "sources": [
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Упаковка",
+    "value": "Блістер",
+    "sources": [
+      "stvol.ua"
+    ]
+  }
+]

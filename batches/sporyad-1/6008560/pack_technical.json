@@ -1,0 +1,83 @@
+[
+  {
+    "key": "Країна походження",
+    "value": "Франція",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Темно-сірий",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "Полікарбонат",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Безобідкові",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Гумка на потилицю",
+    "value": "Ні",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Чохол для зберігання й транспортування",
+    "value": "Так",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Поляризація",
+    "value": "Так",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Складна оправа",
+    "value": "Ні",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Складана оправа",
+    "value": "False",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Резинка на затылок",
+    "value": "False",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Чохол для зберігання і транспортування",
+    "value": "True",
+    "sources": [
+      "prom.ua"
+    ]
+  }
+]

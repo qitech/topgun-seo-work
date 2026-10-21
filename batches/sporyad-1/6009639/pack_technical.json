@@ -1,0 +1,62 @@
+[
+  {
+    "key": "Країна походження",
+    "value": "Італія",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Вікова група",
+    "value": "Для дорослих",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Гарантія",
+    "value": "12 міс",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Синій",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "Термопластик",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Призначення",
+    "value": "Для стрілянини",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Рівень шумозаглушення SNR",
+    "value": "32 дБ",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Навушники",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua"
+    ]
+  }
+]

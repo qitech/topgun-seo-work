@@ -1,0 +1,83 @@
+[
+  {
+    "key": "Країна походження",
+    "value": "Україна",
+    "sources": [
+      "zbroia.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Модель",
+    "value": "Помповое ружье",
+    "sources": [
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Довжина загальна, мм",
+    "value": "110",
+    "sources": [
+      "zbroia.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Висота, мм",
+    "value": "250",
+    "sources": [
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "Ткань з ПВХ-пропиткой",
+    "sources": [
+      "zbroia.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Хаки",
+    "sources": [
+      "zbroia.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Місткість",
+    "value": "1",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Кількість кишень",
+    "value": "1",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Кількість відділень",
+    "value": "1",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Чохол",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Ширина, мм",
+    "value": "25 см",
+    "sources": [
+      "prom.ua"
+    ]
+  }
+]

@@ -1,0 +1,140 @@
+[
+  {
+    "key": "Країна походження",
+    "value": "Швеція",
+    "sources": [
+      "xtarget.com.ua",
+      "ibis.net.ua",
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Вікова група",
+    "value": "Для дорослих",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Гарантія",
+    "value": "12 міс",
+    "sources": [
+      "xtarget.com.ua",
+      "ibis.net.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Зелений",
+    "sources": [
+      "xtarget.com.ua",
+      "ibis.net.ua",
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "Поліуретан",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Призначення",
+    "value": "Для стрілянини",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Навушники",
+    "sources": [
+      "xtarget.com.ua",
+      "ibis.net.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Модель",
+    "value": "Supreme Mil CC",
+    "sources": [
+      "ibis.net.ua"
+    ]
+  },
+  {
+    "key": "Шумозаглушення (SNR), дБ",
+    "value": "24",
+    "sources": [
+      "ibis.net.ua"
+    ]
+  },
+  {
+    "key": "Час роботи",
+    "value": "600",
+    "sources": [
+      "ibis.net.ua"
+    ]
+  },
+  {
+    "key": "Елемент живлення",
+    "value": "AAA",
+    "sources": [
+      "ibis.net.ua"
+    ]
+  },
+  {
+    "key": "Маса, г",
+    "value": "381",
+    "sources": [
+      "ibis.net.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Довжина загальна, мм",
+    "value": "0,198",
+    "sources": [
+      "ibis.net.ua"
+    ]
+  },
+  {
+    "key": "Ширина, мм",
+    "value": "0,148",
+    "sources": [
+      "ibis.net.ua"
+    ]
+  },
+  {
+    "key": "Висота, мм",
+    "value": "0,100",
+    "sources": [
+      "ibis.net.ua"
+    ]
+  },
+  {
+    "key": "Рівень придушення шуму NRR",
+    "value": "20 дБ",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Рівень шумозаглушення SNR",
+    "value": "25 дБ",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Автономна робота",
+    "value": "до 600 часов",
+    "sources": [
+      "stvol.ua"
+    ]
+  }
+]

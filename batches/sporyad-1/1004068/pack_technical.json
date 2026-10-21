@@ -1,0 +1,45 @@
+[
+  {
+    "key": "Модель",
+    "value": "20830-01",
+    "sources": [
+      "debra.com.ua"
+    ]
+  },
+  {
+    "key": "Країна походження",
+    "value": "Іспанія",
+    "sources": [
+      "debra.com.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Довжина загальна, мм",
+    "value": "130 см",
+    "sources": [
+      "debra.com.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Чорний",
+    "sources": [
+      "debra.com.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "Поліестер",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Чохол",
+    "sources": [
+      "prom.ua"
+    ]
+  }
+]

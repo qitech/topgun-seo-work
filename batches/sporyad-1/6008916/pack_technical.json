@@ -1,0 +1,40 @@
+[
+  {
+    "key": "Колір",
+    "value": "Койот коричневий (Coyote Brown)",
+    "sources": [
+      "condoroutdoor.com",
+      "pricel.com.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Підсумки — для магазинів",
+    "sources": [
+      "condoroutdoor.com"
+    ]
+  },
+  {
+    "key": "Країна походження",
+    "value": "США",
+    "sources": [
+      "pricel.com.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "Нейлон",
+    "sources": [
+      "pricel.com.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Маса, г",
+    "value": "0,5 кг",
+    "sources": [
+      "stvol.ua"
+    ]
+  }
+]

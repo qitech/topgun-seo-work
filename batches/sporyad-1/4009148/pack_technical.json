@@ -1,0 +1,52 @@
+[
+  {
+    "key": "Колір",
+    "value": "Рожевий захід",
+    "sources": [
+      "leatherman.com",
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Запасна частина",
+    "sources": [
+      "leatherman.com"
+    ]
+  },
+  {
+    "key": "Гарантія",
+    "value": "12 місяців",
+    "sources": [
+      "ibis-gear.com"
+    ]
+  },
+  {
+    "key": "Розміри",
+    "value": "55 мм",
+    "sources": [
+      "ibis-gear.com"
+    ]
+  },
+  {
+    "key": "Маса, кг",
+    "value": "5",
+    "sources": [
+      "ibis-gear.com"
+    ]
+  },
+  {
+    "key": "Інструменти",
+    "value": "Кресало,",
+    "sources": [
+      "ibis-gear.com"
+    ]
+  },
+  {
+    "key": "Країна походження",
+    "value": "США",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  }
+]

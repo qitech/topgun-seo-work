@@ -1,0 +1,39 @@
+[
+  {
+    "key": "Колір",
+    "value": "Койот коричневий (Coyote Brown)",
+    "sources": [
+      "condoroutdoor.com"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Підсумки — медичні",
+    "sources": [
+      "condoroutdoor.com",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Країна походження",
+    "value": "Китай",
+    "sources": [
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Маса, г",
+    "value": "0,275 кг",
+    "sources": [
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "поліестер",
+    "sources": [
+      "stvol.ua"
+    ]
+  }
+]

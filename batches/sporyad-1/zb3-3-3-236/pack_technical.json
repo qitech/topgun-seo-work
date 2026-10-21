@@ -1,0 +1,30 @@
+[
+  {
+    "key": "Матеріал",
+    "value": "Пластик",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Чорний",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Країна походження",
+    "value": "Китай",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Модель",
+    "value": "Glock 17/19",
+    "sources": [
+      "prom.ua"
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "key": "Країна походження",
+    "value": "Німеччина",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Калібр",
+    "value": "6 мм",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Початкова швидкість кулі, м/с",
+    "value": "75 м/с",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Кульки BB",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  }
+]

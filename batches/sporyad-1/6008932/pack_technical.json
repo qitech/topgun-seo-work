@@ -1,0 +1,57 @@
+[
+  {
+    "key": "Колір",
+    "value": "Койот коричневий (Coyote Brown)",
+    "sources": [
+      "condoroutdoor.com",
+      "xtarget.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Підсумки — для магазинів",
+    "sources": [
+      "condoroutdoor.com",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Країна походження",
+    "value": "США",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "Поліестер",
+    "sources": [
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Кількість відділень",
+    "value": "3",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Система кріплення",
+    "value": "MOLLE",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Маса, г",
+    "value": "0,32 кг",
+    "sources": [
+      "stvol.ua"
+    ]
+  }
+]

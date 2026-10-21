@@ -1,0 +1,38 @@
+[
+  {
+    "key": "Країна походження",
+    "value": "Австрія",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Чорний",
+    "sources": [
+      "xtarget.com.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Оптичний",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Діаметр",
+    "value": "46 мм",
+    "sources": [
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "полімер",
+    "sources": [
+      "stvol.ua"
+    ]
+  }
+]

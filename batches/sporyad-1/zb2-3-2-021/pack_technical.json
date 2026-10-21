@@ -1,0 +1,57 @@
+[
+  {
+    "key": "Країна походження",
+    "value": "Китай",
+    "sources": [
+      "xtarget.com.ua",
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Чорний",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "Алюмінієвий сплав",
+    "sources": [
+      "xtarget.com.ua",
+      "debra.com.ua",
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Призначення",
+    "value": "Вогнепальна зброя",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Трипод",
+    "sources": [
+      "xtarget.com.ua",
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Модель",
+    "value": "21426-01",
+    "sources": [
+      "debra.com.ua",
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Висота, мм",
+    "value": "90-165 см",
+    "sources": [
+      "debra.com.ua",
+      "zbroia.com.ua"
+    ]
+  }
+]

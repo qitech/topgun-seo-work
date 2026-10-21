@@ -1,0 +1,60 @@
+[
+  {
+    "key": "Країна походження",
+    "value": "Італія",
+    "sources": [
+      "xtarget.com.ua",
+      "debra.com.ua"
+    ]
+  },
+  {
+    "key": "Калібр",
+    "value": "12 мм",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Хакі",
+    "sources": [
+      "xtarget.com.ua",
+      "debra.com.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "Поліестер",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Призначення",
+    "value": "Для рушниці",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Ремінь збройовий",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Модель",
+    "value": "20975-01",
+    "sources": [
+      "debra.com.ua"
+    ]
+  },
+  {
+    "key": "Довжина загальна, мм",
+    "value": "140 см",
+    "sources": [
+      "debra.com.ua"
+    ]
+  }
+]

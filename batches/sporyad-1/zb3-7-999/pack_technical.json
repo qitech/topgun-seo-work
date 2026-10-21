@@ -1,0 +1,65 @@
+[
+  {
+    "key": "Модель",
+    "value": "Troy T-Sling",
+    "sources": [
+      "ibis.net.ua"
+    ]
+  },
+  {
+    "key": "Країна походження",
+    "value": "США",
+    "sources": [
+      "ibis.net.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "Нейлон",
+    "sources": [
+      "ibis.net.ua"
+    ]
+  },
+  {
+    "key": "Довжина загальна, мм",
+    "value": "216",
+    "sources": [
+      "ibis.net.ua"
+    ]
+  },
+  {
+    "key": "Ширина, мм",
+    "value": "25",
+    "sources": [
+      "ibis.net.ua"
+    ]
+  },
+  {
+    "key": "Кількість точок фіксації",
+    "value": "2",
+    "sources": [
+      "ibis.net.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Multicam",
+    "sources": [
+      "ibis.net.ua"
+    ]
+  },
+  {
+    "key": "Висота, мм",
+    "value": "0,050",
+    "sources": [
+      "ibis.net.ua"
+    ]
+  },
+  {
+    "key": "Маса, кг",
+    "value": "0,120",
+    "sources": [
+      "ibis.net.ua"
+    ]
+  }
+]

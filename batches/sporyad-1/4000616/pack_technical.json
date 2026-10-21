@@ -1,0 +1,98 @@
+[
+  {
+    "key": "Модель",
+    "value": "MOLLE L",
+    "sources": [
+      "ibis-gear.com"
+    ]
+  },
+  {
+    "key": "Гарантія",
+    "value": "12 місяців",
+    "sources": [
+      "ibis-gear.com",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Кількість інструментів",
+    "value": "1",
+    "sources": [
+      "ibis-gear.com"
+    ]
+  },
+  {
+    "key": "Інструменти",
+    "value": "Мультитул",
+    "sources": [
+      "ibis-gear.com"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "Нейлон",
+    "sources": [
+      "ibis-gear.com"
+    ]
+  },
+  {
+    "key": "Маса, г",
+    "value": "100",
+    "sources": [
+      "ibis-gear.com"
+    ]
+  },
+  {
+    "key": "Розміри",
+    "value": "10.8 х 3.81 х 2.03 см",
+    "sources": [
+      "ibis-gear.com"
+    ]
+  },
+  {
+    "key": "Довжина загальна, мм",
+    "value": "0,180",
+    "sources": [
+      "ibis-gear.com"
+    ]
+  },
+  {
+    "key": "Ширина, мм",
+    "value": "0,080",
+    "sources": [
+      "ibis-gear.com"
+    ]
+  },
+  {
+    "key": "Висота, мм",
+    "value": "0,040",
+    "sources": [
+      "ibis-gear.com"
+    ]
+  },
+  {
+    "key": "Країна походження",
+    "value": "США",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Чорний",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Форм-фактор мультитула",
+    "value": "Пасатижі",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua"
+    ]
+  }
+]

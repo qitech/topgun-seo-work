@@ -1,0 +1,46 @@
+[
+  {
+    "key": "Модель",
+    "value": "Кобури Umarex",
+    "sources": [
+      "ibis.net.ua"
+    ]
+  },
+  {
+    "key": "Країна походження",
+    "value": "Німеччина",
+    "sources": [
+      "ibis.net.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "Шкіра",
+    "sources": [
+      "ibis.net.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Носіння кобури",
+    "value": "Правостороння",
+    "sources": [
+      "ibis.net.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Поясна",
+    "sources": [
+      "ibis.net.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Чорний",
+    "sources": [
+      "ibis.net.ua",
+      "stvol.ua"
+    ]
+  }
+]

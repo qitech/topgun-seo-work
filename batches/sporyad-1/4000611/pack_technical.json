@@ -1,0 +1,48 @@
+[
+  {
+    "key": "Модель",
+    "value": "Carabiner Accessory",
+    "sources": [
+      "ibis-gear.com"
+    ]
+  },
+  {
+    "key": "Гарантія",
+    "value": "12 місяців",
+    "sources": [
+      "ibis-gear.com",
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Кількість інструментів",
+    "value": "1",
+    "sources": [
+      "ibis-gear.com"
+    ]
+  },
+  {
+    "key": "Інструменти",
+    "value": "Карабін,",
+    "sources": [
+      "ibis-gear.com"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "Метал",
+    "sources": [
+      "ibis-gear.com",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Країна походження",
+    "value": "США",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua",
+      "stvol.ua"
+    ]
+  }
+]

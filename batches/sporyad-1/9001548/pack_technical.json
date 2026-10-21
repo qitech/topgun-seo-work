@@ -1,0 +1,53 @@
+[
+  {
+    "key": "Стиль",
+    "value": "Спортивний",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Капюшон",
+    "value": "Без капюшона",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Стать",
+    "value": "Жіночий",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Розміри",
+    "value": "S",
+    "sources": [
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Сезон",
+    "value": "Літо",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Бавовна",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Темно-синій",
+    "sources": [
+      "prom.ua",
+      "stvol.ua"
+    ]
+  }
+]

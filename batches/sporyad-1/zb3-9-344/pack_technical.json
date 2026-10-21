@@ -1,0 +1,62 @@
+[
+  {
+    "key": "Країна походження",
+    "value": "Україна",
+    "sources": [
+      "zbroia.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Довжина загальна, мм",
+    "value": "135",
+    "sources": [
+      "zbroia.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "Ткань з ПВХ-пропиткой",
+    "sources": [
+      "zbroia.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Хаки",
+    "sources": [
+      "zbroia.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Місткість",
+    "value": "1",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Кількість відділень",
+    "value": "1",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Кількість кишень",
+    "value": "1",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Чохол",
+    "sources": [
+      "prom.ua"
+    ]
+  }
+]

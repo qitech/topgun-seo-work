@@ -1,0 +1,96 @@
+[
+  {
+    "key": "Колір",
+    "value": "Блакитний",
+    "sources": [
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Маса, г",
+    "value": "1500 г",
+    "sources": [
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Вікова група",
+    "value": "Для дорослих",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Гарантія",
+    "value": "12 міс",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Особливості спальника",
+    "value": "Анатомічний капюшон",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Сезон",
+    "value": "Всесезонний",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Температура екстриму",
+    "value": "-3 °С",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Форма спальника",
+    "value": "Анатомічна",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "Поліестер",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Наповнювач",
+    "value": "Холлофайбер",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Розміри",
+    "value": "M",
+    "sources": [
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Країна походження",
+    "value": "США",
+    "sources": [
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Внутрішній шар",
+    "value": "100% поліестер",
+    "sources": [
+      "stvol.ua"
+    ]
+  }
+]

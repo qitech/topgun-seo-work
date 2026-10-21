@@ -1,0 +1,30 @@
+[
+  {
+    "key": "Вид утеплювача",
+    "value": "Без утеплювача",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Поліестер",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Розміри",
+    "value": "L",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Темно-синій",
+    "sources": [
+      "prom.ua"
+    ]
+  }
+]

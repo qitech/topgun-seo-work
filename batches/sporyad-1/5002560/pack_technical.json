@@ -1,0 +1,47 @@
+[
+  {
+    "key": "Країна походження",
+    "value": "Австрія",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Призначення",
+    "value": "Оптичний приціл",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Упаковка",
+    "value": "Картонна коробка",
+    "sources": [
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Маса, г",
+    "value": "35",
+    "sources": [
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Діаметр об'єктива, мм",
+    "value": "44",
+    "sources": [
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Чорний",
+    "sources": [
+      "stvol.ua"
+    ]
+  }
+]

@@ -1,0 +1,103 @@
+[
+  {
+    "key": "Колір",
+    "value": "Чорний",
+    "sources": [
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Вікова група",
+    "value": "Для дорослих і підлітків",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Форма спальника",
+    "value": "Анатомічна",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Сезон",
+    "value": "Зима",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Маса, г",
+    "value": "2000 г",
+    "sources": [
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Особливості спальника",
+    "value": "Мембрана",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Гарантія",
+    "value": "12 міс",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Температура екстриму",
+    "value": "-13 °С",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Наповнювач",
+    "value": "Холлофайбер",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Верхня температура комфорту",
+    "value": "6 град.",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Нижня температура комфорту",
+    "value": "2 град.",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Розміри",
+    "value": "M",
+    "sources": [
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Країна походження",
+    "value": "США",
+    "sources": [
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Внутрішній шар",
+    "value": "100% поліестер",
+    "sources": [
+      "stvol.ua"
+    ]
+  }
+]

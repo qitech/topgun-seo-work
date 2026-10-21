@@ -1,0 +1,115 @@
+[
+  {
+    "key": "Модель",
+    "value": "Запасні ремни",
+    "sources": [
+      "ibis-gear.com"
+    ]
+  },
+  {
+    "key": "Конструкція точила",
+    "value": "Комплектуючі",
+    "sources": [
+      "ibis-gear.com"
+    ]
+  },
+  {
+    "key": "Зернистість",
+    "value": "6000",
+    "sources": [
+      "ibis-gear.com",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Розміри",
+    "value": "305 x 12,7 мм",
+    "sources": [
+      "ibis-gear.com"
+    ]
+  },
+  {
+    "key": "Комплектація",
+    "value": "Ремінь (1)",
+    "sources": [
+      "ibis-gear.com"
+    ]
+  },
+  {
+    "key": "Довжина загальна, мм",
+    "value": "0,230",
+    "sources": [
+      "ibis-gear.com"
+    ]
+  },
+  {
+    "key": "Ширина, мм",
+    "value": "0,065",
+    "sources": [
+      "ibis-gear.com"
+    ]
+  },
+  {
+    "key": "Висота, мм",
+    "value": "0,055",
+    "sources": [
+      "ibis-gear.com"
+    ]
+  },
+  {
+    "key": "Маса, кг",
+    "value": "0,047",
+    "sources": [
+      "ibis-gear.com"
+    ]
+  },
+  {
+    "key": "Одиниця вимірювання",
+    "value": "Штука",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Кількість в пакованні",
+    "value": "6",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Призначення",
+    "value": "Метал",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Шліфувальна стрічка",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Упаковка",
+    "value": "Картонна коробка",
+    "sources": [
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Кількість в упаковці",
+    "value": "6шт",
+    "sources": [
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Країна походження",
+    "value": "США",
+    "sources": [
+      "stvol.ua"
+    ]
+  }
+]

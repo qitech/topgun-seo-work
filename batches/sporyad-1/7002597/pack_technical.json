@@ -1,0 +1,37 @@
+[
+  {
+    "key": "Матеріал",
+    "value": "Поліпропілен",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Кейс",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Ширина, мм",
+    "value": "421 мм",
+    "sources": [
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Довжина загальна, мм",
+    "value": "1397 мм",
+    "sources": [
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Країна походження",
+    "value": "США",
+    "sources": [
+      "stvol.ua"
+    ]
+  }
+]

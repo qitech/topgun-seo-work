@@ -1,0 +1,76 @@
+[
+  {
+    "key": "Країна походження",
+    "value": "Італія",
+    "sources": [
+      "zbroia.com.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Ремни",
+    "sources": [
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Вид",
+    "value": "Оружейные",
+    "sources": [
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Калібр",
+    "value": "Універсальний",
+    "sources": [
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Довжина загальна, мм",
+    "value": "90 - 103",
+    "sources": [
+      "zbroia.com.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "Замша ; Шкіра ; Количество патронов 2",
+    "sources": [
+      "zbroia.com.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Зелений",
+    "sources": [
+      "zbroia.com.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Додаткова інформація",
+    "value": "Водоотталкивающая обработка",
+    "sources": [
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Водонепроникність",
+    "value": "Водоотталкивающая обробка",
+    "sources": [
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Упаковка",
+    "value": "Блістер",
+    "sources": [
+      "stvol.ua"
+    ]
+  }
+]

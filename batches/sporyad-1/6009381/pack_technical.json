@@ -1,0 +1,51 @@
+[
+  {
+    "key": "Колір",
+    "value": "Сірий",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Маса, г",
+    "value": "27 г",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Країна походження",
+    "value": "Германія",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "Поликарбонат",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Противідколоння",
+    "value": "Так",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Противоударні",
+    "value": "Так",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Фотоелемент",
+    "value": "Наявний",
+    "sources": [
+      "prom.ua"
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "key": "Країна походження",
+    "value": "Китай",
+    "sources": [
+      "xtarget.com.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Хакі",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Сумка",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Маса, г",
+    "value": "1,05 кг",
+    "sources": [
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "100% поліестер",
+    "sources": [
+      "stvol.ua"
+    ]
+  }
+]

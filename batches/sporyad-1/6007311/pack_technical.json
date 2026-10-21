@@ -1,0 +1,53 @@
+[
+  {
+    "key": "Країна походження",
+    "value": "Франція",
+    "sources": [
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Гумка на потилицю",
+    "value": "Так",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Темно-сірий",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "Полікарбонат",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Напівобідкова",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Чохол для зберігання й транспортування",
+    "value": "Так",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Маса, г",
+    "value": "50",
+    "sources": [
+      "prom.ua",
+      "stvol.ua"
+    ]
+  }
+]

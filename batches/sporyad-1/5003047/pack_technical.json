@@ -1,0 +1,32 @@
+[
+  {
+    "key": "Країна походження",
+    "value": "Китай",
+    "sources": [
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Чорний",
+    "sources": [
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "6063-Т6 алюмінієвий сплав",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Діаметр",
+    "value": "56 мм",
+    "sources": [
+      "stvol.ua"
+    ]
+  }
+]

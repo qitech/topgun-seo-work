@@ -1,0 +1,17 @@
+[
+  {
+    "key": "Країна походження",
+    "value": "Франція",
+    "sources": [
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Горн",
+    "sources": [
+      "prom.ua"
+    ]
+  }
+]

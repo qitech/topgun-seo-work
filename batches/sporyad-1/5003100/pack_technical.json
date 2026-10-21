@@ -1,0 +1,86 @@
+[
+  {
+    "key": "Країна походження",
+    "value": "Китай",
+    "sources": [
+      "xtarget.com.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Чорний",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "Алюмінієвий сплав",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Призначення",
+    "value": "Вогнепальна зброя",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Монопод",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Маса, г",
+    "value": "380 г",
+    "sources": [
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Клас вологозахисту",
+    "value": "IP55",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Кількість відділень",
+    "value": "1",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Особливості",
+    "value": "Укладається разом з оптикою",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Довжина загальна, мм",
+    "value": "181 см",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Висота, мм",
+    "value": "181",
+    "sources": [
+      "prom.ua",
+      "stvol.ua"
+    ]
+  }
+]

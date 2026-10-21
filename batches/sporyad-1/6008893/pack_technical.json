@@ -1,0 +1,50 @@
+[
+  {
+    "key": "Країна походження",
+    "value": "США",
+    "sources": [
+      "namushke.com.ua",
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Ширина, мм",
+    "value": "144 мм",
+    "sources": [
+      "namushke.com.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "темно-сірий",
+    "sources": [
+      "namushke.com.ua",
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "Нержавіюча сталь",
+    "sources": [
+      "namushke.com.ua",
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Напівобідкова",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Чохол для зберігання й транспортування",
+    "value": "Так",
+    "sources": [
+      "prom.ua"
+    ]
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "key": "Колір",
+    "value": "Чорний",
+    "sources": [
+      "leatherman.com",
+      "military.eu",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "Нержавіюча сталь 154CM",
+    "sources": [
+      "leatherman.com",
+      "ibis-gear.com",
+      "military.eu",
+      "xtarget.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Запасна частина",
+    "sources": [
+      "leatherman.com"
+    ]
+  },
+  {
+    "key": "Модель",
+    "value": "EOD Wire Cutter Kit",
+    "sources": [
+      "ibis-gear.com"
+    ]
+  },
+  {
+    "key": "Гарантія",
+    "value": "12 місяців",
+    "sources": [
+      "ibis-gear.com"
+    ]
+  },
+  {
+    "key": "Кількість інструментів",
+    "value": "1",
+    "sources": [
+      "ibis-gear.com"
+    ]
+  },
+  {
+    "key": "Інструменти",
+    "value": "Кусачки",
+    "sources": [
+      "ibis-gear.com"
+    ]
+  },
+  {
+    "key": "Розміри",
+    "value": "13 × 9,5 × 2 мм",
+    "sources": [
+      "ibis-gear.com"
+    ]
+  },
+  {
+    "key": "Різальна кромка клинка",
+    "value": "Гладка",
+    "sources": [
+      "military.eu"
+    ]
+  },
+  {
+    "key": "Кількість предметів у наборі",
+    "value": "2",
+    "sources": [
+      "military.eu"
+    ]
+  },
+  {
+    "key": "Країна походження",
+    "value": "США",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Призначення",
+    "value": "Універсальна",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Марка сталі/Матеріал клинка",
+    "value": "154CM",
+    "sources": [
+      "stvol.ua"
+    ]
+  }
+]

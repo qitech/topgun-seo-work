@@ -1,0 +1,30 @@
+[
+  {
+    "key": "Тип",
+    "value": "Чохол",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Висота, мм",
+    "value": "5 см",
+    "sources": [
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Ширина, мм",
+    "value": "18 см",
+    "sources": [
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Довжина загальна, мм",
+    "value": "21 см",
+    "sources": [
+      "stvol.ua"
+    ]
+  }
+]

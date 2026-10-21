@@ -1,0 +1,62 @@
+[
+  {
+    "key": "Колір",
+    "value": "Чорний",
+    "sources": [
+      "leatherman.com"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "Нержавіюча сталь 154CM",
+    "sources": [
+      "leatherman.com",
+      "ibis-gear.com",
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Запасна частина",
+    "sources": [
+      "leatherman.com"
+    ]
+  },
+  {
+    "key": "Модель",
+    "value": "Strap Cutter Insert",
+    "sources": [
+      "ibis-gear.com"
+    ]
+  },
+  {
+    "key": "Гарантія",
+    "value": "12 місяців",
+    "sources": [
+      "ibis-gear.com",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Кількість інструментів",
+    "value": "1",
+    "sources": [
+      "ibis-gear.com"
+    ]
+  },
+  {
+    "key": "Країна походження",
+    "value": "США",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Призначення",
+    "value": "Універсальна",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  }
+]

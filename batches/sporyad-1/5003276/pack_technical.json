@@ -1,0 +1,31 @@
+[
+  {
+    "key": "Країна походження",
+    "value": "Австрія",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Призначення",
+    "value": "Оптичний приціл",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Чорний",
+    "sources": [
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Діаметр",
+    "value": "40 мм",
+    "sources": [
+      "stvol.ua"
+    ]
+  }
+]

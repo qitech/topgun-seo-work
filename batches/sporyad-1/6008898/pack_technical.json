@@ -1,0 +1,67 @@
+[
+  {
+    "key": "Колір",
+    "value": "Чорний",
+    "sources": [
+      "condoroutdoor.com",
+      "xtarget.com.ua",
+      "pricel.com.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Сумки — поясні",
+    "sources": [
+      "condoroutdoor.com",
+      "xtarget.com.ua",
+      "pricel.com.ua"
+    ]
+  },
+  {
+    "key": "Країна походження",
+    "value": "Китай",
+    "sources": [
+      "xtarget.com.ua",
+      "pricel.com.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "Нейлон",
+    "sources": [
+      "xtarget.com.ua",
+      "pricel.com.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Маса, г",
+    "value": "700",
+    "sources": [
+      "pricel.com.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Об'єм, л",
+    "value": "2,0",
+    "sources": [
+      "pricel.com.ua"
+    ]
+  },
+  {
+    "key": "Розміри",
+    "value": "15,25 х 15,25 х 7 см",
+    "sources": [
+      "pricel.com.ua"
+    ]
+  },
+  {
+    "key": "Модель",
+    "value": "Fanny Pack",
+    "sources": [
+      "pricel.com.ua"
+    ]
+  }
+]

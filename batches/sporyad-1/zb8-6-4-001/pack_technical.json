@@ -1,0 +1,80 @@
+[
+  {
+    "key": "Модель",
+    "value": "PSA",
+    "sources": [
+      "ibis.net.ua",
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Країна походження",
+    "value": "Ізраїль",
+    "sources": [
+      "ibis.net.ua",
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Picatinny",
+    "sources": [
+      "ibis.net.ua",
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "Алюмінієвий сплав",
+    "sources": [
+      "ibis.net.ua",
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Додаткова інформація",
+    "value": "Під ремінь 20 мм",
+    "sources": [
+      "ibis.net.ua",
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Довжина загальна, мм",
+    "value": "32 x 20 x 16 мм",
+    "sources": [
+      "ibis.net.ua",
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Ширина, мм",
+    "value": "0,090",
+    "sources": [
+      "ibis.net.ua",
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Висота, мм",
+    "value": "0,040",
+    "sources": [
+      "ibis.net.ua",
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "База крепления",
+    "value": "Weaver/Picatinny",
+    "sources": [
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Чорний",
+    "sources": [
+      "zbroia.com.ua"
+    ]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "key": "Колір",
+    "value": "Хакі",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Країна походження",
+    "value": "Китай",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Капюшон",
+    "value": "Без капюшона",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Розміри",
+    "value": "XL",
+    "sources": [
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Сезон",
+    "value": "Весна/Осінь",
+    "sources": [
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Стиль",
+    "value": "Спортивний",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Пропускає повітря",
+    "value": "Так",
+    "sources": [
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Стать",
+    "value": "Чоловік",
+    "sources": [
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "65% поліестер, 35% бавовна",
+    "sources": [
+      "stvol.ua"
+    ]
+  }
+]

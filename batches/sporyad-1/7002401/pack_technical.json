@@ -1,0 +1,121 @@
+[
+  {
+    "key": "Країна походження",
+    "value": "США",
+    "sources": [
+      "xtarget.com.ua",
+      "ibis.net.ua",
+      "zbroia.com.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Гарантія",
+    "value": "12 міс",
+    "sources": [
+      "xtarget.com.ua",
+      "ibis.net.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Чорний",
+    "sources": [
+      "xtarget.com.ua",
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Довжина загальна, мм",
+    "value": "22.9 см",
+    "sources": [
+      "xtarget.com.ua",
+      "ibis.net.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "Алюмінієвий сплав",
+    "sources": [
+      "xtarget.com.ua",
+      "ibis.net.ua",
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Планка кронштейна",
+    "value": "Вівера/Пікатінні",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Призначення",
+    "value": "Вогнепальна зброя",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Сошки",
+    "sources": [
+      "xtarget.com.ua",
+      "ibis.net.ua",
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Модель",
+    "value": "BR",
+    "sources": [
+      "ibis.net.ua",
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Маса, г",
+    "value": "368 г",
+    "sources": [
+      "ibis.net.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Висота, мм",
+    "value": "0,040",
+    "sources": [
+      "ibis.net.ua",
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Диаметр колец / Посадочное место",
+    "value": "Weaver/Picatinny",
+    "sources": [
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Подпружиненные ножки",
+    "value": "Так",
+    "sources": [
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Шарнирная база",
+    "value": "Так",
+    "sources": [
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Упаковка",
+    "value": "Блістер",
+    "sources": [
+      "stvol.ua"
+    ]
+  }
+]

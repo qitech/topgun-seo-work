@@ -1,0 +1,23 @@
+[
+  {
+    "key": "Матеріал",
+    "value": "Сталь",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Чорний",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Гарантія",
+    "value": "12 міс",
+    "sources": [
+      "prom.ua"
+    ]
+  }
+]

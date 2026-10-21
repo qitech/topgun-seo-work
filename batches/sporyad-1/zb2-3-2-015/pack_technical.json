@@ -1,0 +1,83 @@
+[
+  {
+    "key": "Країна походження",
+    "value": "Китай",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Гарантія",
+    "value": "12 міс",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Чорний",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Довжина загальна, мм",
+    "value": "165 см",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "Алюмінієвий сплав",
+    "sources": [
+      "xtarget.com.ua",
+      "debra.com.ua",
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Призначення",
+    "value": "Вогнепальна зброя",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Монопод",
+    "sources": [
+      "xtarget.com.ua",
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Модель",
+    "value": "21426-01",
+    "sources": [
+      "debra.com.ua"
+    ]
+  },
+  {
+    "key": "Маса, г",
+    "value": "600",
+    "sources": [
+      "debra.com.ua"
+    ]
+  },
+  {
+    "key": "Упаковка",
+    "value": "Блістер",
+    "sources": [
+      "debra.com.ua"
+    ]
+  },
+  {
+    "key": "Висота, мм",
+    "value": "90-165 см",
+    "sources": [
+      "debra.com.ua",
+      "zbroia.com.ua"
+    ]
+  }
+]

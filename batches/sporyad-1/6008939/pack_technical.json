@@ -1,0 +1,45 @@
+[
+  {
+    "key": "Колір",
+    "value": "MultiCam",
+    "sources": [
+      "condoroutdoor.com",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Плитоноски",
+    "sources": [
+      "condoroutdoor.com"
+    ]
+  },
+  {
+    "key": "Маса, г",
+    "value": "1,12 кг",
+    "sources": [
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Країна походження",
+    "value": "США",
+    "sources": [
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Характеристики тканин (1-й шар)",
+    "value": "Cordura",
+    "sources": [
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Характеристики тканин (2-й шар)",
+    "value": "100% нейлон",
+    "sources": [
+      "stvol.ua"
+    ]
+  }
+]

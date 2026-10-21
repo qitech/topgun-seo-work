@@ -1,0 +1,100 @@
+[
+  {
+    "key": "Модель",
+    "value": "Large з кишенями",
+    "sources": [
+      "ibis-gear.com"
+    ]
+  },
+  {
+    "key": "Гарантія",
+    "value": "12 місяців",
+    "sources": [
+      "ibis-gear.com",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Кількість інструментів",
+    "value": "1",
+    "sources": [
+      "ibis-gear.com"
+    ]
+  },
+  {
+    "key": "Інструменти",
+    "value": "Мультитул",
+    "sources": [
+      "ibis-gear.com"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "Нейлон",
+    "sources": [
+      "ibis-gear.com",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Маса, г",
+    "value": "40",
+    "sources": [
+      "ibis-gear.com"
+    ]
+  },
+  {
+    "key": "Розміри",
+    "value": "12,5 x 4 x 5 см",
+    "sources": [
+      "ibis-gear.com"
+    ]
+  },
+  {
+    "key": "Довжина загальна, мм",
+    "value": "0,180",
+    "sources": [
+      "ibis-gear.com"
+    ]
+  },
+  {
+    "key": "Ширина, мм",
+    "value": "0,080",
+    "sources": [
+      "ibis-gear.com"
+    ]
+  },
+  {
+    "key": "Висота, мм",
+    "value": "0,040",
+    "sources": [
+      "ibis-gear.com"
+    ]
+  },
+  {
+    "key": "Країна походження",
+    "value": "США",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Чорний",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Форм-фактор мультитула",
+    "value": "Пасатижі",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua"
+    ]
+  }
+]

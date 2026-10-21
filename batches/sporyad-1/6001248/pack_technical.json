@@ -1,0 +1,56 @@
+[
+  {
+    "key": "Модель",
+    "value": "19334-01",
+    "sources": [
+      "debra.com.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "бавовна",
+    "sources": [
+      "debra.com.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Optifade TM Marsh",
+    "sources": [
+      "debra.com.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Розміри",
+    "value": "36x20x27 см",
+    "sources": [
+      "debra.com.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Маса, г",
+    "value": "1150",
+    "sources": [
+      "debra.com.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Країна походження",
+    "value": "Італія (дизайн)",
+    "sources": [
+      "debra.com.ua",
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Наплічна/Срібна",
+    "sources": [
+      "prom.ua"
+    ]
+  }
+]

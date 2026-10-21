@@ -1,0 +1,46 @@
+[
+  {
+    "key": "Модель",
+    "value": "25350-01",
+    "sources": [
+      "debra.com.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "98% хлопок/2% еластан",
+    "sources": [
+      "debra.com.ua"
+    ]
+  },
+  {
+    "key": "Розміри",
+    "value": "XL",
+    "sources": [
+      "debra.com.ua",
+      "prom.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Вид утеплювача",
+    "value": "Без утеплювача",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Жилет",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Оливковий",
+    "sources": [
+      "prom.ua"
+    ]
+  }
+]

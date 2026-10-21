@@ -1,0 +1,30 @@
+[
+  {
+    "key": "Бренд",
+    "value": "CZ (Česká zbrojovka)",
+    "sources": [
+      "eshop.czub.cz"
+    ]
+  },
+  {
+    "key": "Сумісність",
+    "value": "CZ 75 / SP-01",
+    "sources": [
+      "eshop.czub.cz"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "товсті",
+    "sources": [
+      "eshop.czub.cz"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "латунь",
+    "sources": [
+      "eshop.czub.cz"
+    ]
+  }
+]

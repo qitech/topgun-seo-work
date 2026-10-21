@@ -1,0 +1,85 @@
+[
+  {
+    "key": "Країна походження",
+    "value": "Італія",
+    "sources": [
+      "zbroia.com.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Модель",
+    "value": "SEC",
+    "sources": [
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Кейс",
+    "sources": [
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Довжина загальна, мм",
+    "value": "1050",
+    "sources": [
+      "zbroia.com.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Висота, мм",
+    "value": "295",
+    "sources": [
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Ширина, мм",
+    "value": "110",
+    "sources": [
+      "zbroia.com.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "Пластик",
+    "sources": [
+      "zbroia.com.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Призначення",
+    "value": "Для ружей",
+    "sources": [
+      "zbroia.com.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Чорний",
+    "sources": [
+      "zbroia.com.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Маса, кг",
+    "value": "2,5",
+    "sources": [
+      "zbroia.com.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Товщина",
+    "value": "10 см",
+    "sources": [
+      "stvol.ua"
+    ]
+  }
+]

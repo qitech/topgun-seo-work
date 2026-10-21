@@ -1,0 +1,68 @@
+[
+  {
+    "key": "Країна походження",
+    "value": "США",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Вид сейфа",
+    "value": "збройові сейфи та шафи",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Чорний",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Кількість секцій",
+    "value": "1",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Тип замка",
+    "value": "Механічний ключовий",
+    "sources": [
+      "xtarget.com.ua",
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Гарантія",
+    "value": "12 міс",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Наявність трейзера",
+    "value": "Ні",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Висота, мм",
+    "value": "1520 мм",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Ширина, мм",
+    "value": "1416 мм",
+    "sources": [
+      "prom.ua"
+    ]
+  }
+]

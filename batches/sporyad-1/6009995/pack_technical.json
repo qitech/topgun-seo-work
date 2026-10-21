@@ -1,0 +1,58 @@
+[
+  {
+    "key": "Бренд",
+    "value": "RAGNAROK",
+    "sources": [
+      "topgun"
+    ]
+  },
+  {
+    "key": "Модель",
+    "value": "THOR-3",
+    "sources": [
+      "topgun"
+    ]
+  },
+  {
+    "key": "Тип товару",
+    "value": "Ремінь-крюк / фіксатор зброї",
+    "sources": [
+      "topgun"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Олива (Ranger Green / Olive)",
+    "sources": [
+      "topgun"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "Зносостійка нейлонова стропа MIL-SPEC",
+    "sources": [
+      "topgun"
+    ]
+  },
+  {
+    "key": "Фурнітура",
+    "value": "Посилені ацеталові пряжки та сталеві з'єднувачі",
+    "sources": [
+      "topgun"
+    ]
+  },
+  {
+    "key": "Країна виробник",
+    "value": "Україна",
+    "sources": [
+      "topgun"
+    ]
+  },
+  {
+    "key": "Сумісність",
+    "value": "АК, AR-15, карабіни, помпові рушниці",
+    "sources": [
+      "topgun"
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "key": "Країна походження",
+    "value": "Туреччина",
+    "sources": [
+      "xtarget.com.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Цевье",
+    "sources": [
+      "xtarget.com.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "Пластик",
+    "sources": [
+      "xtarget.com.ua",
+      "stvol.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "коричневий",
+    "sources": [
+      "stvol.ua"
+    ]
+  }
+]

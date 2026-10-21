@@ -1,0 +1,51 @@
+[
+  {
+    "key": "Країна походження",
+    "value": "Україна",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Призначення",
+    "value": "Для патронів",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Калібр",
+    "value": "12 К",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Місткість",
+    "value": "6",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Колір",
+    "value": "Чорний",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Матеріал",
+    "value": "Шкіра",
+    "sources": [
+      "prom.ua"
+    ]
+  },
+  {
+    "key": "Тип",
+    "value": "Патронташ",
+    "sources": [
+      "prom.ua"
+    ]
+  }
+]
